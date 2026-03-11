@@ -1,0 +1,39 @@
+# R files
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user/
+
+# Shiny files
+rsconnect/
+.shiny/
+
+# IDE
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Output files
+*.png
+*.pdf
+*.html
+
+# Data files (keep samples)
+data/*.csv
+!data/sample_*.csv
+
+# Environment
+.Renviron
+
+# Dependencies
+r_library/
+
+# Log files
+*.txt
